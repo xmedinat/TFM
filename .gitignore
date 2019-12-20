@@ -1,0 +1,7 @@
+.ipynb_checkpoints
+.idea
+*.npy
+*.h5
+Data
+Augmentation
+__pycache__
